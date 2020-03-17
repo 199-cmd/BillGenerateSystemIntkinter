@@ -1,0 +1,32 @@
+	 Welcome to Grocery Shop 
+
+ Bill Number : 8010
+ Customer Name : Nityanand
+ Phone Number : 5858585858
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Bath Soap		4		160
+ Fcae Cream		6		720
+ Face Wash		8		480
+ Hair Spray		9		1620
+ Hair Gell		5		700
+ Body Loshan		4		720
+ Rice		10		400
+ Food Oil		1		120
+ Daal		6		360
+ Wheat		8		1440
+ Sugar		2		280
+ Tea		2		360
+ Maza		5		300
+ Coca Cola		2		120
+ Frooti		5		250
+ Thumbs Up		6		270
+ Limca		8		320
+ Sprite		9		540
+ ------------------------------------
+ Cosemetic Tax		Rs. 220.0
+ Grocery Tax		Rs. 296.0
+ Cold Drink Tax		Rs. 90.0
+ Total Bill : 		 Rs. 9766.0
+ ------------------------------------
